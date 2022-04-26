@@ -1,3 +1,5 @@
+![Alt text](imagen/Selección_060.png?raw=true "Diagrama de Flujo")
+
 # ciclos_metodos
 Historia de Ruby
 
